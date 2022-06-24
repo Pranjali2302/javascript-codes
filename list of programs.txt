@@ -1,0 +1,8 @@
+Remove duplicate from array
+Reverse strubg
+Prime number
+Fibonanci
+Count of each word in string
+sort array
+palindrom
+2nd lowest
